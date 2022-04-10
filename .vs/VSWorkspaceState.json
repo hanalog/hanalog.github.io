@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\_data",
     "\\_includes\\search"
   ],
-  "SelectedNode": "\\_data",
+  "SelectedNode": "\\_data\\navigation.yml",
   "PreviewInSolutionExplorer": false
 }
