@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_data",
-    "\\_includes\\search"
+    "\\_pages",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_data\\navigation.yml",
+  "SelectedNode": "\\_posts\\2022-04-09-trend1.md",
   "PreviewInSolutionExplorer": false
 }
