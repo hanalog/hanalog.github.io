@@ -23,8 +23,8 @@ docs:
   - title: "Trends"
     children:
       - title: "IT"
-        url: /categories/
-      - title: "Others"
+        url: /categories/IT/IT Trends
+      - title: "Other Industries"
         url: /categories/
   - title: "Projects"
     children:

@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_posts"
+    "\\_data",
+    "\\_includes\\search"
   ],
-  "SelectedNode": "\\_posts\\2022-03-28-blogsetting.md",
+  "SelectedNode": "\\_data\\navigation.yml",
   "PreviewInSolutionExplorer": false
 }
