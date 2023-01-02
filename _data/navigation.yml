@@ -24,14 +24,12 @@ docs:
     children:
       - title: "IT"
         url: /categories/#it
-      - title: "Other Industries"
-        url: /categories/
   - title: "Projects"
     children:
       - title: "Insight"
         url: /categories/
-      - title: "Project"
-        url: /categories/
+      - title: "Ciaolabella2"
+        url: /categories/#ciaolabella2
   - title: "Life"
     children:
       - title: "Coaching"
