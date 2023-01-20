@@ -2,7 +2,7 @@
 layout: single
 title: "깃허브 블로그 제작 일지"
 category: "Others"
-tag: [github]
+tag: [blog]
 author_profile: false
 sidebar:
   nav: "docs"
