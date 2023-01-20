@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "HANA"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Proactive|Listener|TastyErrors"
+  bio              : "Proactive|Listener|TastyError"
   location         : "South Korea"
   email            :
   links:
