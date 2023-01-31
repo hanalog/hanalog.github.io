@@ -13,7 +13,7 @@ main:
 docs:
   - title: "Tech"
     children:
-      - title: "Trend"
+      - title: "Trends"
         url: /tags/#it
       - title: "Redis"
         url: /tags/#redis
@@ -21,7 +21,7 @@ docs:
         url: /tags/#streamlit
   - title: "Project"
     children:
-      - title: "Insight"
+      - title: "Insights"
         url: /categories/#insight
       - title: "Ciaolabella2"
         url: /categories/#ciaolabella2
