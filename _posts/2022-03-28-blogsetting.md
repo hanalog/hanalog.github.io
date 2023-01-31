@@ -10,7 +10,7 @@ sidebar:
 
 ### HANA-LOG 만드는 과정 기록
 
-<img src="https://raw.githubusercontent.com/hanalog/hanalog.github.io/gh-pages/images/hanalog_logo_sunrise.png" alt="hanalog_logo_sunrise" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/hanalog/hanalog.github.io/gh-pages/images/2022-03-28-blogsetting/hanalog_logo_sunrise.png" alt="hanalog_logo_sunrise" style="zoom:80%;" />
 
 #### 1일차(2022-03-28)
 - 블로그 생성
