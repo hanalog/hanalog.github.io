@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /categories/
+    url: /categories/#ciaolabella2
   - title: "Category"
     url: /categories/
   - title: "Tag"
@@ -11,18 +11,18 @@ main:
 
 
 docs:
-  - title: "About"
-    url: /categories/
-  - title: "Trends"
+  - title: "Tech"
     children:
-      - title: "IT"
-        url: /categories/#it
-      - title: "Others"
-        url: /categories/#it
-  - title: "Projects"
+      - title: "Trend"
+        url: /tags/#it
+      - title: "Redis"
+        url: /tags/#redis
+      - title: "Streamlit"
+        url: /tags/#streamlit
+  - title: "Project"
     children:
       - title: "Insight"
-        url: /categories/
+        url: /categories/#insight
       - title: "Ciaolabella2"
         url: /categories/#ciaolabella2
   - title: "Life"

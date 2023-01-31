@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "da
 locale                   : "ko-KR"
 title                    : "HANA-LOG"
 title_separator          : "|"
-subtitle                 : "On the Road to Data Engineer"
+subtitle                 : "On the Road to the Data Engineer"
 name                     : "hanalog"
 description              : "Hana's Blog"
 url                      : "https://hanalog.github.io"
