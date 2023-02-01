@@ -13,15 +13,17 @@ main:
 docs:
   - title: "Tech"
     children:
-      - title: "Trends"
+      - title: "Trend"
         url: /tags/#it
       - title: "Redis"
         url: /tags/#redis
+      - title: "MongoDB"
+        url: /tags/#mongodb
       - title: "Streamlit"
         url: /tags/#streamlit
   - title: "Project"
     children:
-      - title: "Insights"
+      - title: "Insight"
         url: /categories/#insight
       - title: "Ciaolabella2"
         url: /categories/#ciaolabella2
