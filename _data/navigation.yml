@@ -15,6 +15,10 @@ docs:
     children:
       - title: "Trend"
         url: /tags/#it
+      - title: "Spark"
+        url: /tags/#spark
+      - title: "Python"
+        url: /tags/#python
       - title: "Redis"
         url: /tags/#redis
       - title: "MongoDB"
