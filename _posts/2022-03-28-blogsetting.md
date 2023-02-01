@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Github Blog 제작 일지"
-category: "Others"
-tag: [blog]
+category: "Life"
+tag: [github]
 author_profile: false
 sidebar:
   nav: "docs"
