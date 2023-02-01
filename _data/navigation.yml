@@ -14,7 +14,7 @@ docs:
   - title: "Tech"
     children:
       - title: "Trend"
-        url: /tags/#it
+        url: /categories/#trend
       - title: "Spark"
         url: /tags/#spark
       - title: "Python"
@@ -33,10 +33,10 @@ docs:
         url: /categories/#ciaolabella2
   - title: "Life"
     children:
+      - title: "Blog"
+        url: /categories/#github
       - title: "Coaching"
-        url: /categories/#coaching
-      - title: "Others"
-        url: /categories/#others
+        url: /tags/#coaching
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
