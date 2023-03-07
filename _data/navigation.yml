@@ -34,7 +34,7 @@ docs:
   - title: "Life"
     children:
       - title: "Blog"
-        url: /categories/#github
+        url: /tags/#github
       - title: "Coaching"
         url: /tags/#coaching
 
