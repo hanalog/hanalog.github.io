@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Github Blog 제작 일지"
+title: "[Github] Blog 제작 일지"
 category: "Life"
 tag: [github]
 author_profile: false
