@@ -17,6 +17,8 @@ docs:
         url: /categories/#trend
       - title: "Spark"
         url: /tags/#spark
+      - title: "Kafka"
+        url: /tags/#kafka
       - title: "Python"
         url: /tags/#python
       - title: "Redis"
