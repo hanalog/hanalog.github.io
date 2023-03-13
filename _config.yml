@@ -24,7 +24,7 @@ description              : "Hana's Blog"
 url                      : "https://hanalog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/hanalog_logo.png" # path of fallback teaser image, e.g. 
+teaser                   : # path of fallback teaser image, e.g. 
 logo                     : # path of logo image, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "HANA"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/hanalog_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Proactive|Listener|TastyError"
   location         : "South Korea"
   email            :
