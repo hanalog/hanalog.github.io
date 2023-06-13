@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "HANA-LOG"
 title_separator          : "|"
-subtitle                 : "On the Road to the ML Engineer"
+subtitle                 : "On the Road to the Data Engineer"
 name                     : "hanalog"
 description              : "Hana's Blog"
 url                      : "https://hanalog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/hanalog_teaser.png" # path of fallback teaser image, e.g. 
-logo                     : "/assets/images/hanalog_logo.png" # path of logo image, e.g.
+logo                     : "/assets/images/hanalog_logo2.png" # path of logo image, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 100
