@@ -27,6 +27,8 @@ docs:
         url: /tags/#mongodb
       - title: "Streamlit"
         url: /tags/#streamlit
+      - title: "Analysis"
+        url: /tags/#analysis
   - title: "Project"
     children:
       - title: "Insight"
