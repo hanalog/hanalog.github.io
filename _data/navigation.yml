@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /categories/#ciaolabella2
+    url: https://github.com/hanna-joo
   - title: "Category"
     url: /categories/
   - title: "Tag"
@@ -11,36 +11,36 @@ main:
 
 
 docs:
-  - title: "Tech"
+  - title: "Programming"
     children:
-      - title: "Trend"
-        url: /categories/#trend
+      - title: "ComputerScience"
+        url: /tags/#cs
+      - title: "Python"
+        url: /tags/#python
+  - title: "DataPlatform"
+    children:
       - title: "Spark"
         url: /tags/#spark
       - title: "Kafka"
         url: /tags/#kafka
-      - title: "Python"
-        url: /tags/#python
       - title: "Redis"
         url: /tags/#redis
       - title: "MongoDB"
         url: /tags/#mongodb
       - title: "Streamlit"
         url: /tags/#streamlit
-      - title: "Analysis"
-        url: /tags/#analysis
-  - title: "Project"
+  - title: "DataAnalysis"
     children:
-      - title: "Insight"
-        url: /categories/#insight
-      - title: "Ciaolabella2"
-        url: /categories/#ciaolabella2
-  - title: "Life"
+      - title: "GrowthHacking"
+        url: /tags/#growthhacking
+      - title: "Streamlit"
+        url: /tags/#streamlit
+  - title: "Etc"
     children:
-      - title: "Blog"
-        url: /tags/#github
-      - title: "Coaching"
-        url: /tags/#coaching
+      - title: "Trend & Insight"
+        url: /category/#trend&insight
+      - title: "Life"
+        url: /category/#Life
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

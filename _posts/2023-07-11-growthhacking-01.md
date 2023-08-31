@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "[Analysis] 그로스 해킹 (1)"
+title: "[GrowthHacking] 그로스 해킹 (1)"
 category: "DataAnalysis"
-tag: [analysis]
+tag: [growthhacking]
 author_profile: false
 sidebar:
   nav: "docs"
