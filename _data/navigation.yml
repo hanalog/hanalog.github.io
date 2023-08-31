@@ -38,7 +38,7 @@ docs:
   - title: "Etc"
     children:
       - title: "Trend & Insight"
-        url: /category/#trend&insight
+        url: /category/#trend-insight
       - title: "Life"
         url: /category/#Life
 
