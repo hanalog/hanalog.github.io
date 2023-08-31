@@ -13,11 +13,11 @@ main:
 docs:
   - title: "Programming"
     children:
-      - title: "ComputerScience"
+      - title: "Computer Science"
         url: /tags/#cs
       - title: "Python"
         url: /tags/#python
-  - title: "DataPlatform"
+  - title: "Data Platform"
     children:
       - title: "Spark"
         url: /tags/#spark
@@ -29,9 +29,9 @@ docs:
         url: /tags/#mongodb
       - title: "Streamlit"
         url: /tags/#streamlit
-  - title: "DataAnalysis"
+  - title: "Data Analysis"
     children:
-      - title: "GrowthHacking"
+      - title: "Growth Hacking"
         url: /tags/#growthhacking
       - title: "Streamlit"
         url: /tags/#streamlit
