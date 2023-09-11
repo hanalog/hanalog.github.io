@@ -19,14 +19,18 @@ docs:
         url: /tags/#python
   - title: "Data Platform"
     children:
-      - title: "Spark"
-        url: /tags/#spark
+      - title: "Airflow"
+        url: /tags/#airflow
+      - title: "Governance"
+        url: /tags/#streamlit
       - title: "Kafka"
         url: /tags/#kafka
-      - title: "Redis"
-        url: /tags/#redis
       - title: "MongoDB"
         url: /tags/#mongodb
+      - title: "Redis"
+        url: /tags/#redis
+      - title: "Spark"
+        url: /tags/#spark
       - title: "Streamlit"
         url: /tags/#streamlit
   - title: "Data Analysis"
